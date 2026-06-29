@@ -28,9 +28,7 @@ A complete restaurant management platform featuring:
 - MongoDB Database
 - Authentication
 
-## 📫 Contact
-- LinkedIn: (ضع رابطك)
-- Email: (بريدك)
+--
 ## 🔹 Contact
 - GitHub: [@bylasan-dev](https://github.com/bylasan-dev)  
 - Email: bylasan.dev@gmail.com
